@@ -1,6 +1,4 @@
 hijklmn
-h
-i
-j
-k
-lmn
+hij
+klm
+n
